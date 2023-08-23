@@ -22,7 +22,6 @@
     {
       "matches": ["http://*/*", "https://*/*"],
       "js": ["./contentScripts/index.js"],
-      "css": ["./contentScripts/index.css"],
       "run_at": "document_start",
       "all_frames": true
     }
